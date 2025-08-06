@@ -1,2 +1,2 @@
-# Syella
-This is my website.
+# simple-resume
+This is my little description about my background
